@@ -1,0 +1,6 @@
+new Bar:bar = CreateProgressBar(266.00, 362.00, 111.50, 19.20, -12254977, 100.0);
+ShowProgressBarForAll(bar);
+
+Åñëè ó âàñ ïîÿâèëèñü âîïðîñû èëè ïðîáëåìû â ïðîöåññ ñîçäàíèÿ Ïðîãðåñ-Áàðà èñïîëüçóéòå
+
+www.pawno-info.ru
